@@ -1,1 +1,3 @@
-## End to End Machine Learning Project
+## AWS ECR Deployment
+
+Deployment of a Student grade predictor Flask app
